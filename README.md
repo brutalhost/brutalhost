@@ -1,11 +1,12 @@
-# 👋
+# 🏙️ Брутализм и веб-разработка
 
-Меня зовут Андрей, я разработчик из России  
-Люблю создавать *простые и функциональные* решения
+Меня зовут **Андрей**, я - разработчик из России  
+Делаю проекты *функциональными* для бизнеса  
+и *простыми* для обычных людей
 
-### Мой блог:
-<!-- BLOG-POST-LIST:START -->
-- [Третий пост](https://bruthost.blogspot.com/2023/04/blog-post_73.html)
-- [Второй пост](https://bruthost.blogspot.com/2023/04/blog-post_15.html)
-- [Мой первый пост](https://bruthost.blogspot.com/2023/04/blog-post.html)
-<!-- BLOG-POST-LIST:END -->
+|        | Технологии                     |
+| ------ | ---------------------------------------- |
+| PHP    | Laravel, Wordpress, Evolution CMS (MODx) |
+| JS     | Eleventy, Alpine.JS, Cash JS             |
+| CSS    | Vite, Bootstrap, PostCSS                 |
+| Server | Yandex S3, Apache                        |
