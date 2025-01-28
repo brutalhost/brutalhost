@@ -1,0 +1,1 @@
+Работает со всеми продуктами JetBrains: https://3.jetbra.in/
